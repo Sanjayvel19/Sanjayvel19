@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayvel19&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayvel19" /> </p>
 
-- 🔭I,M Pushing for **B.E computer science and engineering(Data Science)**
+- 🔭I,M Pushing for **B.E Computer Science and Engineering(Data Science)**
 
 - 🌱 I’m currently learning **python3.0,MySQL5.0**
 
