@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjai V</h1>
-<h3 align="center">A Passionate on data analysis</h3>
+<h3 align="center">A Passionate on Learning</h3>
 <img align="right" alt="coding" width="300" src="https://indoanalytica.com/static/images/data-science-5.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayvel19&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayvel19" /> </p>
